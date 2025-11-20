@@ -15,9 +15,9 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am System analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as System analyst and and I like solving complex analytical problems.
 
 - :seedling: Exploring Technical Content Writing.
 
